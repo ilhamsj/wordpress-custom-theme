@@ -17,7 +17,22 @@
     <meta charset="<?php bloginfo('charset'); ?>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php bloginfo('name'); ?></title>
-    <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            font-size: 2rem;
+            font-weight: bold;
+        }
+    </style>
 </head>
 
 <body>
