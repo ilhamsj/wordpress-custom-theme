@@ -5,6 +5,7 @@
  *
  * @category WordPress
  * @package  HelloWorldTheme
+ * @version  1.0
  * @author   Ilham <ilhamsaputrajati@gmail.com>
  * @license  GPL-2.0-or-later <https://www.gnu.org/licenses/gpl-2.0.html>
  * @link     https://example.com
